@@ -18,6 +18,4 @@ To get started with Code Insight, simply download and install the software, and 
 
 ## Support
 
-If you have any questions or issues with Code Insight, please visit the Revenera support page for assistance.
-
-
+If you have any questions or issues with Code Insight, please visit the [Revenera support page](https://www.revenera.com/support/) for assistance.
