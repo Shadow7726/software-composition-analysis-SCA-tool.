@@ -8,7 +8,7 @@ The following describes the types of Code Insight scans and the analysis techniq
 ## Scan Types
 Code Insight scans typically fall into three categories:
 
-Code repository scans: These scans analyze code stored in a version control system such as Git, SVN or Perforce.
+#Code repository scans: These scans analyze code stored in a version control system such as Git, SVN or Perforce.
 Binary repository scans: These scans analyze binaries stored in a binary repository such as JFrog Artifactory or Nexus Repository Manager.
 Package manager scans: These scans analyze package manifests for popular package managers such as npm, Maven, or RubyGems.
 Scan Analysis Techniques
