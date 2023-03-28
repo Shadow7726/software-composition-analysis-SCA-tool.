@@ -5,7 +5,7 @@ A Code Insight scan processes codebase files to identify evidence of OSS and thi
 
 The following describes the types of Code Insight scans and the analysis techniques used by scans:
 
-## Scan Types
+<h1><a href="https://example.com">SCAN Types</a></h1>
 Code Insight scans typically fall into three categories:
 
 ## Code repository scans:
