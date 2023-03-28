@@ -37,6 +37,6 @@ This technique uses algorithms to analyze code and identify patterns and charact
 This technique decompiles binaries and analyzes the resulting code to identify known components and vulnerabilities.
 
 
-<h1><a href="[https://example.com](https://docs.revenera.com/fnci2022r4/content/helplibrary/Scan_Profiles.htm#using_1873825562_2251743)">Scan Profiles</a></h1>
+<h1><a href="https://docs.revenera.com/fnci2022r4/content/helplibrary/Scan_Profiles.htm#using_1873825562_2251743)">Scan Profiles</a></h1>
 
 Code Insight scans can be configured using scan profiles, which specify the types of scans to perform, the analysis techniques to use, and the policies to enforce. Profiles can be customized for different projects or departments within an organization, depending on the specific needs and requirements of each team. Profiles can also be scheduled to run on a regular basis to ensure ongoing monitoring of OSS and third-party components used in codebases.
