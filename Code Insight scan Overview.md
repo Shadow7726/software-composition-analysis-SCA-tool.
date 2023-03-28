@@ -5,7 +5,7 @@ A Code Insight scan processes codebase files to identify evidence of OSS and thi
 
 The following describes the types of Code Insight scans and the analysis techniques used by scans:
 
-<h1><a href="https://example.com">SCAN Types</a></h1>
+<h1><a href="https://docs.revenera.com/fnci2022r4/content/helplibrary/Scan_Types.htm#using_1873825562_2245234">Scan Types</a></h1>
 Code Insight scans typically fall into three categories:
 
 ## Code repository scans:
@@ -17,7 +17,8 @@ These scans analyze binaries stored in a binary repository such as JFrog Artifac
 ## Package manager scans: 
 These scans analyze package manifests for popular package managers such as npm, Maven, or RubyGems.
 
-# Scan Analysis Techniques
+<h1><a href="https://docs.revenera.com/fnci2022r4/content/helplibrary/Scan_Analysis_Techniques.htm#using_1873825562_2245249">Scan Analysis Techniques</a></h1>
+
 Code Insight scans use a variety of analysis techniques to identify OSS and third-party components, licenses, and security vulnerabilities. These techniques include:
 
 ## Signature scanning:
@@ -36,5 +37,6 @@ This technique uses algorithms to analyze code and identify patterns and charact
 This technique decompiles binaries and analyzes the resulting code to identify known components and vulnerabilities.
 
 
-# Scan Profiles
+<h1><a href="[https://example.com](https://docs.revenera.com/fnci2022r4/content/helplibrary/Scan_Profiles.htm#using_1873825562_2251743)">Scan Profiles</a></h1>
+
 Code Insight scans can be configured using scan profiles, which specify the types of scans to perform, the analysis techniques to use, and the policies to enforce. Profiles can be customized for different projects or departments within an organization, depending on the specific needs and requirements of each team. Profiles can also be scheduled to run on a regular basis to ensure ongoing monitoring of OSS and third-party components used in codebases.
